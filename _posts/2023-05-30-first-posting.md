@@ -2,7 +2,7 @@
 layout: single
 title:  "Welcome to KTH!"
 categories: 
-    - blog #coding
+    - project1 #coding
 tags: [python, blog, jekyll]
 typora-root-url: ../
 ---

@@ -13,15 +13,21 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-category:
-  - title: "카테고리"
+  - title: "자체 프로젝트"
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "프로젝트1"
+        url: "/project1"
+      - title: "프로젝트2"
+        url:  "/projectB"
   - title: "공모전"
     children:
-      - title: "공모전"
+      - title: "대학생 알고리즘 투자 대회"
         url: "/competition"
+  - title: "코딩 테스트"
+    children:
+      - title: "프로그래밍"
+        url: "/codetest1"
+  - title: "논문 요약"
+    children:
+      - title: "Paper Summary1"
+        url: "/papersummary1"    
